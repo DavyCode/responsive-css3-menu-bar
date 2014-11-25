@@ -5,6 +5,6 @@
 <a href="http://joashpereira.com/blog/2014/11/01/responsive-css3-menu-bar/" >Read more</a> | 
 <a href="http://joashpereira.com/demo/2014/11/responsive-css3-menu-bar/">View Demo</a>
 
-<strong>Languages used</strong>: HTML, CSS, JS
+<strong>Platforms used</strong>: HTML, CSS, JS
 <br/>
 <strong>External sources used</strong>: Font Awesome, FlatUIColors
